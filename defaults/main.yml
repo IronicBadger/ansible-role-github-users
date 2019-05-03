@@ -1,13 +1,14 @@
 ---
 github_users: []
 # You can specify an object with 'name' (required) and 'groups' (optional):
-# - name: geerlingguy
+# - github_username: ironicbadger
+#   local_username: alex
 #   groups: www-data,sudo
 
 # Or you can specify a GitHub username directly:
-# - geerlingguy
+# - ironicbadger
 
-github_users_absent: []
+local_users_absent: []
 # You can specify an object with 'name' (required):
 # - name: geerlingguy
 
